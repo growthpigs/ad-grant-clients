@@ -1,8 +1,9 @@
 # Proposal: Google Ad Grants for ISKCON New Govardhana
 
-**Prepared for:** ISKCON Krishna Farm (New Govardhan) Limited
+**Prepared for:** ISKCON New Govardhana (Krishna Farm)
 **Prepared by:** Badaboost Ad Grants
 **Date:** April 2026
+**Related:** #22 (ISKCON research epic)
 
 ---
 
@@ -38,7 +39,7 @@ The Google Ad Grant program has been running since 2003. It's not going away.
 
 ## SLIDE 3 — Why ISKCON New Govardhana Is a Perfect Fit
 
-You're already eligible. You're already registered. You just need someone to turn it on.
+Your organisation has strong foundations — a registered charity, professional websites, and a clear mission. The Google Ad Grant is designed exactly for organisations like yours.
 
 | Requirement | Your Status |
 |-------------|------------|
@@ -48,7 +49,7 @@ You're already eligible. You're already registered. You just need someone to tur
 | Clear nonprofit mission | ✅ Bhakti Yoga community, cow protection, food distribution |
 | Multiple programs | ✅ 7 distinct campaign areas |
 
-**Most nonprofits need 4-6 weeks of setup.** Because you already have charity status and Techsoup, we can have your grant live in **1-2 weeks**.
+To access the Google Ad Grant, a dedicated nonprofit entity needs to be registered with Google and approved through their verification process. **We handle all of this for you** — from nonprofit registration through to a live, spending Ad Grant account.
 
 ---
 
@@ -64,7 +65,7 @@ Drive bookings to krishnavillage-retreat.com. At $100-$300/night, even a handful
 ### 2. Yoga Teacher Training — $2,000/month
 *"200 hour YTT Australia" • "yoga teacher training NSW" • "yoga certification course"*
 
-Your 6-week and 4-week immersive programs are premium offerings. Google Ads puts them in front of people actively searching for teacher training.
+Your 6-week and 4-week immersive programs are premium offerings. Google Ads puts them in front of people actively searching.
 
 ### 3. Govindas Restaurants — $1,500/month
 *"vegetarian restaurant Gold Coast" • "vegan food Burleigh Heads" • "best vegetarian Coolangatta"*
@@ -74,7 +75,7 @@ Three locations. Local search ads drive foot traffic from people searching for f
 ### 4. Cow Protection & Goshala — $1,000/month
 *"cow sanctuary Australia" • "animal welfare NSW" • "sponsor a cow"*
 
-Your cow protection program is unique. Ads connect you with animal welfare supporters who may never have heard of New Govardhana.
+Ads connect you with animal welfare supporters who may never have heard of New Govardhana.
 
 ### 5. Temple & Community — $1,500/month
 *"Hare Krishna community NSW" • "ISKCON Australia" • "Sunday feast Murwillumbah" • "Bhakti Yoga"*
@@ -84,7 +85,7 @@ Grow your community. Attract visitors to Sunday Feast, festivals, and daily prog
 ### 6. Food For Life — $1,000/month
 *"free food charity NSW" • "feed the homeless Gold Coast" • "food distribution volunteer"*
 
-Your Food For Life program feeds those in need. Ads bring in volunteers, donors, and media attention.
+Ads bring in volunteers, donors, and media attention for your food distribution.
 
 ### 7. Book Distribution — $500/month
 *"Bhagavad Gita" • "Krishna consciousness books" • "spiritual literature"*
@@ -113,34 +114,58 @@ When someone searches Google for something related to your mission, **your ad ap
 
 ---
 
-## SLIDE 6 — What We Do For You
+## SLIDE 6 — The Setup: What We Handle
 
-### Setup (Weeks 1-2)
-- Verify and activate Google for Nonprofits
-- Apply for the $10,000/month Google Ad Grant
-- Install tracking (Google Analytics + Microsoft Clarity)
-- Create 7 ad campaigns with targeted keywords
-- Write compelling ad copy for each program
+Getting a Google Ad Grant live requires administrative groundwork and specialist knowledge. We take care of every step.
 
-### Ongoing Monthly Management
-- Monitor and optimize all 7 campaigns
-- Maintain >5% click-through rate (Google's requirement)
-- Expand keywords using AI-powered research
-- A/B test ad copy for maximum performance
-- Ensure full grant compliance (content freshness, quality scores)
-- Monthly performance report with insights
+### Step 1: Nonprofit Registration & Google Application (Weeks 1-4)
+- Register a dedicated nonprofit entity aligned with your mission
+- Obtain nonprofit verification through Techsoup (Google's validation partner)
+- Apply for Google for Nonprofits (G4NP) status
+- Submit the Google Ad Grant application
+- Set up Google Workspace for the grant account
+- Ensure full compliance with Google's nonprofit and Ad Grant policies
 
-### What You DON'T Have To Do
-- No website changes required (your sites are already strong)
-- No content creation (we handle ad copy)
-- No technical setup (we do everything)
-- No contract lock-in (month-to-month)
+### Step 2: Campaign Build (Weeks 4-5)
+- Install tracking (Google Analytics 4 + Microsoft Clarity)
+- Keyword research across all 7 campaign areas
+- Create 7 ad campaigns with targeted keyword groups
+- Write compelling ad copy (15+ headlines, 4+ descriptions per campaign)
+- Set up conversion tracking for bookings, donations, and enquiries
+
+### Step 3: Go Live & Optimise (Week 5+)
+- Launch all campaigns
+- Monitor daily for compliance (CTR >5%, Quality Score 3+)
+- Begin optimization cycle
+
+**Timeline: 4-6 weeks from agreement to live ads.**
 
 ---
 
-## SLIDE 7 — Expected Results
+## SLIDE 7 — Why Monthly Management Matters
 
-Based on our experience managing Google Ad Grants across multiple accounts:
+**A Google Ad Grant without active management is a Google Ad Grant that doesn't work.**
+
+The average unmanaged Ad Grant spends just $300 of $10,000. Here's why expert oversight is essential:
+
+### What your $500/month pays for:
+
+| Management Activity | Why It Matters |
+|-------------------|----------------|
+| **Keyword performance review** | Identify which keywords drive real visitors vs. wasted spend. Pause what's not working, scale what is. |
+| **Ad copy A/B testing** | Continuously test headlines and descriptions to improve click-through rates. Small changes = big results. |
+| **Bid strategy optimization** | Google's "Maximize Conversions" bid strategy needs constant tuning to spend effectively without waste. |
+| **Compliance monitoring** | Google requires >5% CTR, Quality Score 3+, and meaningful conversions every month. Fall below and your grant gets suspended. We keep you compliant. |
+| **Negative keyword management** | Block irrelevant searches that waste your grant budget. This alone can save $1,000-$2,000/month. |
+| **Landing page alignment** | Ensure your ads point to the right pages. Mismatched ads = low Quality Scores = wasted budget. |
+| **New keyword expansion** | Australia is a smaller market. We use AI-powered tools to continuously discover new keyword opportunities to reach more people. |
+| **Monthly reporting** | Clear report showing exactly where your $10,000 went, what it achieved, and what we're doing next. |
+
+**Without this oversight, grants underperform drastically.** With it, we consistently achieve 85-95% spend rates with targeted, converting traffic.
+
+---
+
+## SLIDE 8 — Expected Results
 
 | Metric | What To Expect |
 |--------|---------------|
@@ -156,7 +181,7 @@ Based on our experience managing Google Ad Grants across multiple accounts:
 
 ---
 
-## SLIDE 8 — The Numbers
+## SLIDE 9 — The Numbers
 
 | | Monthly | Annual |
 |---|---------|--------|
@@ -171,40 +196,41 @@ Even if we only achieve 50% of the grant ($5,000/month), that's still a **10:1 r
 
 ---
 
-## SLIDE 9 — Pricing
+## SLIDE 10 — Pricing
 
 ### $500 USD/month
 
 **What's included:**
-- Google Ad Grant application and setup
+- Nonprofit registration and Google Ad Grant application (setup)
 - 7 active campaigns across all your programs
-- AI-powered keyword optimization
-- Full compliance management
-- Microsoft Clarity user behavior analytics
-- Monthly performance reporting
-- Ongoing ad copy optimization
+- Active keyword management — what's working, what's not, continuous optimisation
+- Compliance monitoring and enforcement (CTR, Quality Score, conversions)
+- Microsoft Clarity user behavior analytics (heatmaps, session recordings)
+- Monthly performance report with actionable insights
+- Ongoing ad copy testing and keyword expansion
 
-**No setup fee.** No lock-in contract. Cancel anytime.
+**No lock-in contract.** Cancel anytime.
 
 **Optional:** Start with a 3-month trial ($1,500 total) to prove results before committing long-term.
 
 ---
 
-## SLIDE 10 — Timeline
+## SLIDE 11 — Timeline
 
-| Week | What Happens |
-|------|-------------|
-| **Week 1** | Verify Google for Nonprofits eligibility, submit application |
-| **Week 2** | Grant approved → campaign setup, tracking installation |
-| **Week 3** | Campaigns go live → first clicks and visitors |
-| **Week 4** | Optimization begins → performance report delivered |
-| **Month 2+** | Continuous optimization, keyword expansion, A/B testing |
+| Phase | Timing | What Happens |
+|-------|--------|-------------|
+| **Agreement** | Day 1 | Sign simple service agreement, provide organisation details |
+| **Registration** | Weeks 1-3 | Nonprofit registration, Techsoup verification, G4NP application |
+| **Grant Application** | Week 3-4 | Submit for Google Ad Grant, set up Google Workspace |
+| **Campaign Build** | Week 4-5 | 7 campaigns created, tracking installed, ad copy written |
+| **Go Live** | Week 5-6 | Campaigns launch — first clicks and visitors arrive |
+| **Optimise** | Month 2+ | Continuous keyword management, A/B testing, reporting |
 
-**You could be receiving $329/day in free Google advertising within 2 weeks.**
+**From agreement to live ads: approximately 5-6 weeks.**
 
 ---
 
-## SLIDE 11 — About Badaboost Ad Grants
+## SLIDE 12 — About Badaboost Ad Grants
 
 We've been working with Google Ad Grants since 2020. We specialize in:
 
@@ -220,13 +246,13 @@ We manage the Google Ads. You focus on your mission.
 
 ---
 
-## SLIDE 12 — What Happens Next
+## SLIDE 13 — What Happens Next
 
 1. **You say yes** — we send a simple agreement
-2. **We verify your eligibility** — takes 2-3 days (you're already qualified)
-3. **We set up everything** — campaigns, tracking, ad copy
-4. **Your ads go live** — within 2 weeks
-5. **You start receiving visitors** — $329/day in free advertising
+2. **We register and apply** — nonprofit setup, Google verification, Ad Grant application
+3. **We build everything** — 7 campaigns, tracking, ad copy
+4. **Your ads go live** — approximately 5-6 weeks from agreement
+5. **You start receiving visitors** — $329/day in free advertising, managed and optimised monthly
 
 ### Ready to unlock $120,000/year in free advertising?
 
@@ -266,13 +292,13 @@ Yes. Google Ad Grants has been running since 2003. Over 115,000 nonprofits use i
 No. Your existing websites are strong. We may recommend minor additions (like a privacy policy page) for compliance.
 
 **Q: Can we advertise internationally?**
-Yes. While we'll focus on Australia for volume, we can target any country. This is useful for attracting international yoga retreat guests.
+Yes. While we'll focus on Australia for volume, we can target any country. Useful for attracting international yoga retreat guests.
 
 **Q: What if the grant doesn't work for us?**
-There's no lock-in. If after 3 months you're not seeing value, you can cancel. The Ad Grant stays with your organization — you'd just manage it yourself.
+No lock-in. If after 3 months you're not seeing value, cancel. The Ad Grant stays with your organization.
 
 **Q: Can we promote our restaurant and retreat bookings?**
-The Ad Grant is for nonprofit mission promotion, not direct commercial sales. However, we frame campaigns around your mission (e.g., "Experience vegetarian living at Govindas" rather than "Buy lunch"). Your commercial sites benefit from the increased awareness.
+The Ad Grant is for nonprofit mission promotion, not direct commercial sales. We frame campaigns around your mission (e.g., "Experience vegetarian living at Govindas" rather than "Buy lunch"). Your commercial sites benefit from the increased awareness.
 
-**Q: Do we already have a Google for Nonprofits account?**
-You may already have one through your Techsoup membership. We'll check and activate it if not.
+**Q: What is the registration process?**
+We handle the registration of a dedicated nonprofit entity, verification through Techsoup (Google's nonprofit validation partner), application to Google for Nonprofits, and submission of the Ad Grant application. The entire process takes approximately 4-5 weeks and we manage every step.

@@ -1,10 +1,12 @@
-# ISKCON New Govardhan (New Govardhana)
+# ISKCON New Govardhana
 
 **Status:** Prospect — research complete, ready for proposal
-**Domain:** findkrishna.org (registered with IONOS — currently DNS DEAD, needs reactivation)
+**Domain:** New registration required (findkrishna.org is Badaboost internal — NOT for this client)
 **Type:** First paying client pilot
 **Target Fee:** $500 USD/month
 **Prospect Contact:** Via Jono (Jonathan Andrews)
+
+> **Spelling note:** The canonical spelling is **New Govardhana** (with an 'a' at the end), as used on krishnafarm.com and all official channels. The legal entity name uses "New Govardhan" (without 'a') but the community name is "New Govardhana". Use "New Govardhana" in all client-facing materials.
 
 ## Organization Profile
 
@@ -48,13 +50,13 @@
 
 ## Key Research Findings
 
-### 1. Already a Registered Charity — NO French NPO Needed
-**This is a game-changer.** ISKCON New Govardhan is already an ACNC-registered charity with ABN 29 020 123 190. They are Techsoup members. This means:
-- **No need to create a French nonprofit** (our standard Parallel-Hybrid process)
-- **They likely already qualify for Google for Nonprofits** via Techsoup
-- **Setup time drops from 4-6 weeks to 1-2 weeks** (just G4NP + grant application)
-- **Our cost drops significantly** — no Simplitoo fees, no NPO registration
-- **The $500/mo price works** because our overhead is minimal
+### 1. Registered Charity — But New Google Registration Needed
+ISKCON New Govardhana is already an ACNC-registered charity (ABN 29 020 123 190) and a Techsoup member. However:
+- **findkrishna.org is Badaboost's own internal grant** — we keep this for ourselves
+- **A new nonprofit registration with Google is required** for the ISKCON client project
+- We register a dedicated entity through our standard process, apply for G4NP, and submit for the Ad Grant
+- **Timeline: 4-6 weeks** from agreement to live grant (standard process)
+- **Their existing charity status helps** — ACNC registration and Techsoup membership streamline the Google verification
 
 ### 2. Multiple Revenue-Generating Websites
 They already have professional websites:
@@ -74,11 +76,11 @@ They already have professional websites:
 
 Includes yoga classes (2-3/day) + 3 vegetarian meals. **Even modest ad-driven bookings of 5-10/month = significant ROI** that justifies the $500 management fee many times over.
 
-### 4. findkrishna.org Domain Status
-- **DNS is dead** (ENOTFOUND) — domain may still be registered but not pointing anywhere
-- Originally registered with IONOS for this exact purpose
-- **Decision needed:** Use findkrishna.org as the grant landing site, OR apply the grant directly to krishnafarm.com/krishnavillage-retreat.com
-- **Recommendation:** Apply grant to their EXISTING websites. They don't need a new domain. findkrishna.org can be a supplementary landing page later.
+### 4. findkrishna.org — Badaboost Internal Asset
+- **findkrishna.org belongs to Badaboost** — this is our own grant, not for this client
+- DNS is currently dead (ENOTFOUND) — needs reactivation for our own use later
+- **ISKCON New Govardhana will get a fresh registration** through our standard process
+- Their grant will be associated with a new or existing domain appropriate for their project
 
 ### 5. Competitor Landscape (Ad Grant Managers)
 
